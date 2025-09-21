@@ -1,0 +1,57 @@
+{
+  "chapters": [
+    {
+      "id": "episode1-opening",
+      "title": "Episode 1 – Opening",
+      "episode": "Episode 1: Legend of the Golden Witch",
+      "start_label": "umi1_opning",
+      "end_label": "umi1_1"
+    }
+  ],
+  "speakers": {
+    "01": {
+      "name": "Kinzo Ushiromiya",
+      "portrait": "portraits/kinzo.png"
+    },
+    "05": {
+      "name": "Eva Ushiromiya",
+      "portrait": "portraits/eva.png"
+    },
+    "06": {
+      "name": "Hideyoshi Ushiromiya",
+      "portrait": "portraits/hideyoshi.png"
+    },
+    "07": {
+      "name": "George Ushiromiya",
+      "portrait": "portraits/george.png"
+    },
+    "08": {
+      "name": "Rudolf Ushiromiya",
+      "portrait": "portraits/rudolf.png"
+    },
+    "09": {
+      "name": "Kyrie Ushiromiya",
+      "portrait": "portraits/kyrie.png"
+    },
+    "10": {
+      "name": "Battler Ushiromiya",
+      "portrait": "portraits/battler.png"
+    },
+    "12": {
+      "name": "Rosa Ushiromiya",
+      "portrait": "portraits/rosa.png"
+    },
+    "13": {
+      "name": "Maria Ushiromiya",
+      "portrait": "portraits/maria.png"
+    },
+    "14": {
+      "name": "Genji Ronoue",
+      "portrait": "portraits/genji.png"
+    },
+    "19": {
+      "name": "Doctor Nanjo",
+      "portrait": "portraits/nanjo.png"
+    }
+  }
+}
